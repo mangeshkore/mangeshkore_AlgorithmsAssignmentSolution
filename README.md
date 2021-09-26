@@ -1,0 +1,2 @@
+# mangeshkore_AlgorithmsAssignmentSolution
+Assignment 2 solution
